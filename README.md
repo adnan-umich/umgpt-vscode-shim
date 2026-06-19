@@ -2,6 +2,7 @@
 
 This shim lets VS Code Copilot Custom Endpoint talk to UM-GPT Toolkit when VS Code sends:
 
+
 ```http
 x-api-key: YOUR_KEY
 ```
