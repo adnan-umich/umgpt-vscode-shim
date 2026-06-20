@@ -1,8 +1,5 @@
 # UM-GPT VS Code Shim
 
-
-
-
 This shim lets VS Code Copilot Custom Endpoint talk to UM-GPT Toolkit when VS Code sends:
 
 
